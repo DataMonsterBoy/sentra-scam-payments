@@ -1,0 +1,8 @@
+# unzipped data (the repo holds sentra_data.zip)
+data/
+
+# local environments and editor files
+.venv/
+.ipynb_checkpoints/
+__pycache__/
+.DS_Store
