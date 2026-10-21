@@ -12,6 +12,8 @@ They're away at a conference for two weeks. When they get back, they want a firs
 
 This is synthetic data built for the exercise. Treat it as if it were the bank's real data. If something looks odd, note it as a question for the data team and move on.
 
+All people, businesses, accounts and events in the data are invented. Any resemblance to real people or businesses is coincidental.
+
 ## How the bank catches scams today
 
 - **Warning screen:** some payments show the customer a scam warning before they confirm. A fixed rule decides which payments get one. The screen was redesigned in the second half of 2025.
